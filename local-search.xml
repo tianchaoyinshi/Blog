@@ -5,8 +5,8 @@
   
   <entry>
     <title>测试</title>
-    <link href="/project/2024/02/24/Test/"/>
-    <url>/project/2024/02/24/Test/</url>
+    <link href="/tianchaoyinshi.github.io/2024/02/24/Test/"/>
+    <url>/tianchaoyinshi.github.io/2024/02/24/Test/</url>
     
     <content type="html"><![CDATA[<p>本次文章的内容只为了测试</p>]]></content>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>契机</title>
-    <link href="/project/2024/02/24/reasons/"/>
-    <url>/project/2024/02/24/reasons/</url>
+    <link href="/tianchaoyinshi.github.io/2024/02/24/reasons/"/>
+    <url>/tianchaoyinshi.github.io/2024/02/24/reasons/</url>
     
     <content type="html"><![CDATA[<p>&emsp; 被定义为富有生命力的时光依然过去大半，我既没有取得他人眼中的成功，也没有获得心灵的自足。我近乎无法控制的活着，从很多年前，我就再也没有改变过。保持着一如既往稚嫩的思维方式和极端而又懦弱的性格，我不知道我是否真的想改变，当我处在陈旧的习惯中时我感到无比的安心，一旦空闲下来就会无所适从，焦虑。我不知道怎么满足自己，只能在消磨时光中颓废。散步是一个极佳的时光，特别是人迹罕至的地方，这里我不用在意他人的眼光，我实在是太在意他人的存在了！当一切不存在时，我走着，没有什么能将我牵走，慢慢的似乎那个真的我开始思考，那可能真的是我的存在，但是随着重回现实，一切很快消逝，仿佛自己不曾存在过地生活。每一次的找回自我，懊悔忘却的如此彻底，始终没能把控制船舵，看着自己随风漂泊。我不知道金银岛和梦幻岛有什么意义，但是可能是时候画出自己的地图了。如果每天只醒来一次，我希望将其记在这，期望有一天能够补全自我，直到有一天，彻底苏醒！是时候了！真的是时候了！不能再被风刮走了！余生不再相忘。</p>]]></content>
     
@@ -59,8 +59,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="/project/2024/02/24/hello-world/"/>
-    <url>/project/2024/02/24/hello-world/</url>
+    <link href="/tianchaoyinshi.github.io/2024/02/24/hello-world/"/>
+    <url>/tianchaoyinshi.github.io/2024/02/24/hello-world/</url>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
